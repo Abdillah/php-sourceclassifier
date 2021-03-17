@@ -1,6 +1,7 @@
 {
     "name": "nlp-tools/lang-detect",
     "description": "Classify source code using a Naive Bayes text classifier",
+    "version": "0.0.1",
     "require": {
         "nlp-tools/nlp-tools": "dev-develop"
     },
